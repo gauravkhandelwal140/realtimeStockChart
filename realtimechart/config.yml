@@ -1,0 +1,21 @@
+kafka:
+  host: 'localhost'
+  port_no : '9092'
+  input_topic_name : 'order-events'
+  output_topic_name : 'order-events'
+
+postgres:
+  host: 'localhost'
+  username : 'postgres'
+  password : 'postgres'
+  db_name : 'realtime_chart_app'
+  port_no : '5432'
+  driver : 'org.postgresql.Driver'
+
+postgres_chartsStock_tbl : 'realtimechartapp_stock'
+
+
+
+
+
+
