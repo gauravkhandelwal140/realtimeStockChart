@@ -22,4 +22,21 @@ Highcharts.js for dynamic stock data visualization
 PostgreSQL for data persistence
 This project has been an exciting journey, blending backend engineering, real-time data handling, and front-end visualization to create a seamless user experience. 🌐
 
+Technology Used:
+Backend:
+  python
+  Django
+  Django rest framework
+  django channels
+  kafka
+  spark
+  zookeeper
+forntend:
+  django
+  Bootstrap
+  highchart.js
+  javascript
+  html
+  js
+
 Looking forward to connecting with fellow enthusiasts to exchange ideas or collaborate on similar projects! 🙌
